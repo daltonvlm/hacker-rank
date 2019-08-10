@@ -1,6 +1,7 @@
 #define NMAX 100
 
-int sockMerchant(int n, int ar_count, int* ar) {
+int sockMerchant(int n, int ar_count, int* ar)
+{
     int no_pairs = 0;
     int pairs_count[100] = {0};
 
