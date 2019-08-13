@@ -3,7 +3,7 @@
 int sockMerchant(int n, int ar_count, int* ar)
 {
     int no_pairs = 0;
-    int pairs_count[100] = {0};
+    int pairs_count[NMAX] = {0};
 
     for (int i = 0; i < n; i++) {
         int color = ar[i];
