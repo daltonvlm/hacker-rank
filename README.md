@@ -1,2 +1,2 @@
 # hacker_rank
-My Hacher Rank solutions
+https://www.hackerrank.com/
